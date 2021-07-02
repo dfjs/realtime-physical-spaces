@@ -1,0 +1,17 @@
+.App {
+    height: 100vh;
+    font-size: 2rem;
+    color: black;
+    padding: 100px;
+    text-align: center;
+    background-color: white;
+    transition: all 0.5s ease;
+}
+
+.App__yes {
+    background-color: lightgreen;
+}
+
+.App__no {
+    background-color: lightcoral;
+}
